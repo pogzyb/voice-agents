@@ -1,0 +1,7 @@
+azure-identity
+azure-ai-projects
+azure-ai-voicelive[aiohttp]
+azure-cognitiveservices-speech
+openai[realtime]
+python-dotenv
+pyaudio
