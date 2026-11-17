@@ -5,3 +5,5 @@ azure-cognitiveservices-speech
 openai[realtime]
 python-dotenv
 pyaudio
+
+azure-functions
